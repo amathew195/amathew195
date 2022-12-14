@@ -1,13 +1,13 @@
-### Hi, I'm Ashley 👋
+## Hi, I'm Ashley 👋
 
-#### Languages: 
+### Languages: 
 ![alt text](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white&style=for-the-badge)
 
-#### Libraries/Frameworks/Tools: 
+### Libraries/Frameworks/Tools: 
 ![alt text](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
