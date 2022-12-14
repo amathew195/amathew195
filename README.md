@@ -15,16 +15,20 @@
 ![alt text](https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-PostgresSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![alt text](https://img.shields.io/badge/-SQLAlchemy-4169E1?logo=sqlalchemy&logoColor=white&style=for-the-badge)
+![alt text](https://img.shields.io/badge/-SQLAlchemy-F40D12?logo=sqlalchemy&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-#### About Me: 
+### About Me: 
 - 👀 I’m interested in creating user-friendly, innovative, and scalable tech solutions. 
 - 🌱 I’m currently practicing data structures & algorithms. 
-- 💞️ I’m looking to collaborate on any interesting coding projects/opportunies! If you'd like to collaborate, please shoot me an email! 
-- 📫 How to reach me: amathew195@gmail.com
+- 💞️ I’d love to hear about how we can collaborate on any coding projects/opportunies!  
+- 📫 How to reach me: 
+
+### Let's Connect: 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashleyannmathew/)
+
 
 <!---
 amathew195/amathew195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
