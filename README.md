@@ -8,7 +8,7 @@
 - 💊 I'm a pharmacist turned full stack software engineer.
 - 👩‍💻 I am a graduate from a full time immersive coding bootcamp, Rithm School.
 - 👀 I’m interested in creating user-friendly, innovative, and scalable tech solutions. 
-- 💛 Having taken a nontraditional path into software engineering, I'd love to mentor others who are curious/interested in coding.
+- 👯‍♀️ Having taken a nontraditional path into software engineering, I'd love to mentor others who are curious/interested in coding.
 - 🌱 I’m currently practicing data structures & algorithms. 
 - 💞️ I’d love to hear about how we can collaborate on any coding projects/opportunies!  
 
