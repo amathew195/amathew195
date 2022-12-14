@@ -14,8 +14,9 @@ Libraries/Frameworks/Tools:\
 ![alt text](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
-![alt text](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-PostgresSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![alt text](https://img.shields.io/badge/-SQLAlchemy-4169E1?logo=sqlalchemy&logoColor=white&style=for-the-badge)
+![alt text](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
