@@ -1,4 +1,16 @@
 ## Hi, I'm Ashley 👋
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashleyannmathew/)
+[![linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amathew195@gmail.com)
+
+ 
+
+### About Me: 
+- I'm a pharmacist turned full stack software engineer.
+- 👀 I’m interested in creating user-friendly, innovative, and scalable tech solutions. 
+- 🌱 I’m currently practicing data structures & algorithms. 
+- 💞️ I’d love to hear about how we can collaborate on any coding projects/opportunies!  
+
+* * * 
 
 ### Languages: 
 ![alt text](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
@@ -20,14 +32,7 @@
 ![alt text](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![alt text](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-### About Me: 
-- 👀 I’m interested in creating user-friendly, innovative, and scalable tech solutions. 
-- 🌱 I’m currently practicing data structures & algorithms. 
-- 💞️ I’d love to hear about how we can collaborate on any coding projects/opportunies!  
-- 📫 How to reach me: 
 
-### Let's Connect: 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashleyannmathew/)
 
 
 <!---
